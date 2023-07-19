@@ -25,7 +25,7 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
 ### Contact Me
-<a href="https://www.instagram.com/davechbga/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-David%20Chiriboga-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/davechbga/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-davechbga-blue?style=flat-square&logo=instagram"></a>
 <a href="https://www.linkedin.com/in/davechbga/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-David%20Chiriboga-blue?style=flat-square&logo=linkedin"></a>
 <a href="davechbga@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-davechbga@gmail.com-blue?style=flat-square&logo=gmail"></a>  
 
