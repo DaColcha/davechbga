@@ -1,5 +1,5 @@
 <h1>Hello! I'm David <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h1>
-<h2>Frontend Developer 🎨</h2>
+<h2>Web Developer 🎨</h2>
 
 ### About Me
 - At 26 years of age, I hail from Quito, Ecuador.
